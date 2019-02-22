@@ -8,12 +8,23 @@ import Arena from './components/Arena';
 
 
 class App extends Component {
+  constructor(props){
+    super(props);
+    this.state ={
+      score: 0
+    };
+  }
+
+  getScore = (scoreFromArena) =>{
+    this.setState({score : scoreFromArena});
+  }
+
   render() {
     return (
       <div>
-        <NavigationBar/>
+        <NavigationBar score={this.score}/>
         <Title/>
-        <Arena/>
+        <Arena scoreCallBack = {this.getScore}/>
       </div>
     );
   }

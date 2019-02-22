@@ -25,6 +25,7 @@ class Arena extends Component{
             this.selectedPic = [];
             this.score = 0;
         }
+        this.props.scoreCallback(this.score);
         this.setState({pics});
         // this.updateArena(this.state.pics,12);
     }

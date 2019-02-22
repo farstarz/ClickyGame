@@ -10,7 +10,7 @@ function NavigationBar() {
                     <a href="/">Clicky Game</a>
                 </li>
                 <li class="">Click an image to begin!</li>
-                <li>Score: {Arena.score} | Top Score: 0</li>
+                <li>Score: {this.props.score} | Top Score: 0</li>
             </ul>
         </div>
     );
