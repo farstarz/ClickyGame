@@ -15,7 +15,12 @@ class Arena extends Component{
         return pics.sort(()=> 0.5 - Math.random()).slice(0,n);
     }
     clickCard = (id) =>{
-        if(this.selectedPic.find(pic => pic.id !==id)){
+        console.log("pic id:"+id);
+        // console.log(this.selectedPic);
+        // if(this.selectedPic.find(pic => pic.id !==id)){
+        if((this.selectedPic.filter(pic => pic[0].id ===id)).length===0){
+            // console.log(this.selectedPic);
+            // console.log((this.selectedPic.filter(pic => pic[0].id ===id)).length);
             this.selectedPic.push(this.state.pics.filter(pic => pic.id === id));
             this.score++;
         } else{
@@ -25,7 +30,9 @@ class Arena extends Component{
             this.selectedPic = [];
             this.score = 0;
         }
-        this.props.scoreCallback(this.score);
+        this.props.scoreCallBack(this.score);
+        console.log("Score at Arena: "+this.score);
+        // console.log(this.selectedPic);
         this.setState({pics});
         // this.updateArena(this.state.pics,12);
     }

@@ -1,22 +1,22 @@
 [
     {
       "id": 1,
-      "name": "SpongeBob",
-      "link": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+      "name": "BugsBunny",
+      "link": "https://www.thoughtco.com/thmb/yTdzYtOuXKN4h-LdZrbxCuRwCNI=/1200x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bugs-bunny-58fe1c463df78ca159b5f7d6.jpg",
       "occupation": "Fry Cook",
       "location": "A Pineapple Under the Sea"
     },
     {
       "id": 2,
-      "name": "Mr. Krabs",
-      "link": "https://vignette3.wikia.nocookie.net/vsbattles/links/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+      "name": "Homer Simpson",
+      "link": "https://www.thoughtco.com/thmb/xZbirxPnNJFPwceuOBdXF9H8gRQ=/1080x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homer-simpson-58fe1e6e5f9b581d59a65d8d.jpg",
       "occupation": "Restaurant Owner",
       "location": "A Giant Anchor"
     },
     {
       "id": 3,
-      "name": "Squidward",
-      "link": "https://vignette2.wikia.nocookie.net/fictionalcharacters/links/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "name": "Bart Simpson",
+      "link": "https://www.thoughtco.com/thmb/UEeT5v79qNc3qCrhZYQM8PR_D8o=/1000x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bart-simpson-58fe1f773df78ca159b60cc2.jpg",
       "occupation": "Cashier",
       "location": "An Easter Island Head"
     },
@@ -29,57 +29,57 @@
     },
     {
       "id": 5,
-      "name": "Courage",
-      "link": "https://vignette4.wikia.nocookie.net/vsbattles/links/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+      "name": "Wile E. Coyote",
+      "link": "https://www.thoughtco.com/thmb/ZGBSlIwjsvavfvQayxh6oHR6lEE=/1000x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Wile-E.-Coyote-58fe2c7e3df78ca159c313b6.jpg",
       "occupation": "A Cowardly Dog",
       "location": "Nowhere, Kansas"
     },
     {
       "id": 6,
-      "name": "Doug Funnie",
-      "link": "https://vignette1.wikia.nocookie.net/doug/links/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+      "name": "Scooby Do",
+      "link": "https://www.thoughtco.com/thmb/IWquu2EmHVeZ9-bIs5gXY67F5gw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/scoobydoo-58fe33693df78ca159d109eb.jpg",
       "occupation": "Student",
       "location": "Bluffington"
     },
     {
       "id": 7,
-      "name": "Bugs Bunny",
-      "link": "https://vignette2.wikia.nocookie.net/deathbattlefanon/links/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+      "name": "Yogi Bear",
+      "link": "https://www.thoughtco.com/thmb/X02ol33lf3Qo-i4EL25druODcVw=/466x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yogibear-56a00b945f9b58eba4aea56a.jpg",
       "occupation": "Looney Toon",
       "location": "A Rabbit Burrow"
     },
     {
       "id": 8,
-      "name": "Johnny Bravo",
-      "link": "http://vignette3.wikia.nocookie.net/p__/links/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+      "name": "Tom and Jerry",
+      "link": "https://www.thoughtco.com/thmb/KPu6o0bmkKq2oGH9brQWolIf7IE=/479x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tomandjerry-56a00b943df78cafda9fcac4.jpg",
       "occupation": "Ladies Man",
       "location": "Aron City"
     },
     {
       "id": 9,
-      "name": "Tommy Pickles",
-      "link": "https://vignette4.wikia.nocookie.net/uncyclopedia/links/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
+      "name": "Wonder Woman",
+      "link": "https://www.thoughtco.com/thmb/lebg9lgLh5-xA2y7-Myyv61TivI=/479x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wonderwoman-57ac3d765f9b58974a85555a.jpg",
       "occupation": "Adventurer",
       "location": "California"
     },
     {
       "id": 10,
-      "name": "Rocko",
-      "link": "http://vignette3.wikia.nocookie.net/rockosmodernlife/links/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
+      "name": "Felix the Cat",
+      "link": "https://www.thoughtco.com/thmb/fWNoQ2IOkEQZVxmgRpV54yU72ys=/975x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Felix_the_cat.svg-57c7a3293df78c71b688941b.png",
       "occupation": "Cashier",
       "location": "O-Town, California"
     },
     {
       "id": 11,
-      "name": "Captain Planet",
-      "link": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/links/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
+      "name": "PowerPuff Girls",
+      "link": "https://www.thoughtco.com/thmb/3mCctbAuSJsL1a9H2SzPDiYm0O8=/1367x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/powerpuff_girls-56a00bc45f9b58eba4aea61d.jpg",
       "occupation": "Superhero",
       "location": "Earth"
     },
     {
       "id": 12,
-      "name": "Ickis",
-      "link": "http://static.tvtropes.org/pmwiki/pub/links/ickis.png",
+      "name": "Batman",
+      "link": "https://www.thoughtco.com/thmb/UM2S55gSzvhHJO7TPmwEMuGfwk0=/480x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/batman-56a00b955f9b58eba4aea56d.jpg",
       "occupation": "Ahhhh! A Real Monster!",
       "location": "Under a City Dump"
     }
